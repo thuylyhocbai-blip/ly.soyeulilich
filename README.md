@@ -1,5 +1,6 @@
 đây là đường link dẫn đến trang của tớ :https://thuylyhocbai-blip.github.io/ly.soyeulilich/
 đây là đường link dẫn đến trang trường:https://bdi.edu.vn/
+đây là đường link dẫn đến youtube của tớ :
 -các bước hướng dẫn sử dụng-
 Xin chào tớ là Vũ Thị Thúy ly ,hôm nay tớ sử hướng dẫn mọi người cách sử dung trang của tớ  nhé:
 bước 1 sau khi vào giao diện của trang web thì bạn bấm vào nút bắt đầu để chuyển sang trang tiếp theo
@@ -10,3 +11,4 @@ bước 5 sau khi lưu hồ sơ thì kế bên sẽ có nút lưu hồ sơ có n
 bước 6 sau khi đã xong nhấn nút đăng xuất để trở về trang chủ
 bước  7 sau khi xong  bạn cần kéo lên sẽ có   các thông  tin  liên hệ đến trường  học
 bước  8  ở dưới sẽ  1 tấm ảnh  và kèm tên của tớ bạn chỉ cần bấm vào tấm ảnh sẽ hiện ra thông tin liên quan đến tôi.
+
